@@ -1,4 +1,4 @@
 License CC BY-NC-ND
 
 # LSET
- Interpreter for my own programming language called LSET(language with sets)
+This is my own programming language called LSET(language with sets) which basically have a set as a variable.
